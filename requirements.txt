@@ -5,4 +5,8 @@ pandas
 scikit-learn
 tensorflow
 sympy
-
+psycopg2
+scipy
+bs4
+lxml
+tabulate
