@@ -10,3 +10,4 @@ scipy
 bs4
 lxml
 tabulate
+mxnet
