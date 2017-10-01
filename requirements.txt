@@ -11,4 +11,7 @@ bs4
 lxml
 tabulate
 virtualenv
-virtualenv-shortcut
+virtualenvwrapper
+mxnet
+requests
+jupyter
