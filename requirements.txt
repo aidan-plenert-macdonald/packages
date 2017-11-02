@@ -16,3 +16,5 @@ mxnet
 requests
 jupyter
 jupyterlab
+awscli
+boto3
