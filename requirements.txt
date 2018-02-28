@@ -18,3 +18,4 @@ jupyter
 jupyterlab
 awscli
 boto3
+flask
